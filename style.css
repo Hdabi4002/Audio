@@ -8,9 +8,12 @@ body{
 }
 
 .container {
+    justify-content: center;
     text-align: center;
 }
 label{
+    justify-content: center;
+    text-align: center;
     font-size: 5vh;
     padding:45px;
 }
